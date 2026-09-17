@@ -1,0 +1,6 @@
+{
+  "name": "hafjob",
+  "description": "Fill and submit job applications in Chrome from an Obsidian vault (HAFJOB/ folder). manual-apply confirms before submit; auto-apply submits when every field has a confident source.",
+  "version": "0.1.0",
+  "author": { "name": "Hafshy Yazid" }
+}
